@@ -1,0 +1,74 @@
+Numele echipei este Oracle Red Bull Racing, avand 5 trofee obtinute la piloti si 4 trofee castigate la constructori, fiind originara din Austria
+ID_Angajat: 1
+Nume: Verstappen
+Prenume: Max
+Varsta: 24
+Salariu: 40471000
+Victorii: 21
+----------------------------------------
+ID_Angajat: 2
+Nume: Perez
+Prenume: Sergio
+Varsta: 31
+Salariu: 8734000
+Victorii: 2
+----------------------------------------
+ID_Angajat: 3
+Nume: Chukz
+Prenume: Andy
+Varsta: 42
+Salariu: 64890
+Longevitate: 10
+----------------------------------------
+ID_Angajat: 4
+Nume: Horner
+Prenume: Christian
+Varsta: 51
+Salariu: 980000
+Longevitate: 15
+----------------------------------------
+ID_Angajat: 5
+Nume: Moriba
+Prenume: Ilaix
+Varsta: 25
+Salariu: 36380
+Hobby(pe langa formula 1): pescuit
+----------------------------------------
+ID_Angajat: 6
+Nume: Green
+Prenume: Mikayla
+Varsta: 33
+Salariu: 52500
+Hobby(pe langa formula 1): plimbari lungi
+----------------------------------------
+Salariul total al echipei in acest moment este de: 50338770
+Locatia fabricii(tara): Marea Britanie
+Adresa: str. Workington nr. 65
+Numar de angajati: 400
+Suprafata(hectare): 7
+----------------------------------------
+Locatia fabricii(tara): Marea Britanie
+Adresa: str. Mark Twain nr. 103
+Numar de angajati: 342
+Suprafata(hectare): 6
+----------------------------------------
+Locatia magazinului(tara): Austria
+Adresa: str. W.A.Mozart nr. 22
+Incasari: 26783
+Articole vandute: 5092
+----------------------------------------
+Locatia magazinului(tara): Germania
+Adresa: str. Independentei nr. 78
+Incasari: 40937
+Articole vandute: 6111
+----------------------------------------
+Nume sponsor: Oracle
+Domeniu: Informatica, baze de date
+Investitie: 20000000
+Pozitie sticker pe masina: mare, pe lateral
+----------------------------------------
+Nume sponsor: Telcel
+Domeniu: Telecomunicatii
+Investitie: 7000000
+Pozitie sticker pe masina: pe halo si pe nasul masinii
+----------------------------------------
